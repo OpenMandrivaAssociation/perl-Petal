@@ -14,6 +14,7 @@ BuildRequires: perl(Digest::MD5)
 BuildRequires: perl(MKDoc::XML)
 BuildRequires: perl(Scalar::Util)
 BuildRequires: perl(Test::Harness)
+BuildRequires: perl(CGI)
 BuildArch: noarch
 BuildRoot:  %{_tmppath}/%{name}-%{version}
 
