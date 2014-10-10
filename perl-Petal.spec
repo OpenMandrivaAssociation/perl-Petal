@@ -2,7 +2,7 @@
 
 Name:		perl-%{module}
 Version:	2.20
-Release:	1
+Release:	2
 License:	GPL or Artistic
 Group:		Development/Perl
 Summary:	Perl Template Attribute Language
