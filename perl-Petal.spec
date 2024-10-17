@@ -6,7 +6,7 @@ Release:	3
 License:	GPL or Artistic
 Group:		Development/Perl
 Summary:	Perl Template Attribute Language
-Url:		http://search.cpan.org/dist/%{module}
+Url:		https://search.cpan.org/dist/%{module}
 Source:		http://www.cpan.org/modules/by-module//%{module}-%{version}.tar.gz
 
 BuildRequires:	perl-devel
