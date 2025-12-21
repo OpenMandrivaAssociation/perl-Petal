@@ -9,6 +9,7 @@ Summary:	Perl Template Attribute Language
 Url:		https://search.cpan.org/dist/%{module}
 Source:		http://www.cpan.org/modules/by-module//%{module}-%{version}.tar.gz
 
+BuildRequires:	make
 BuildRequires:	perl-devel
 BuildRequires:	perl(Digest::MD5)
 BuildRequires:	perl(MKDoc::XML)
